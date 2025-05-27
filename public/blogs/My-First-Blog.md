@@ -1,4 +1,4 @@
-# [title]
+#
 
 Hi! This is a blog post that I am storing
 on **GitHub** and using **NextJS**'s static rendering
@@ -25,7 +25,6 @@ publish and edit my blogs.
 Now I shall disappear for another while as I practice content writing
 and learn about SEO so that my website gains a bit of visibility, [title]
 
-[title]: "toootle"
 [metadata.title]:# "Blog Posts Storage Using Github"
 [metadata.tag]:# "test"
 [metadata.date]:# "2025-05-25"
