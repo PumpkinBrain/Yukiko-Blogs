@@ -23,7 +23,7 @@ automation and organization of the files so that I can smoothly
 publish and edit my blogs.
 
 Now I shall disappear for another while as I practice content writing
-and learn about SEO so that my website gains a bit of visibility, [title]
+and learn about SEO so that my website gains a bit of visibility
 
 [metadata.title]:# "Blog Posts Storage Using Github"
 [metadata.tag]:# "test"
