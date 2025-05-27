@@ -1,0 +1,20 @@
+name: Build and Deploy
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps: 
+      - name: checkout code
+        uses: actions/checkout@v4
+      - name: set up code
+        uses: actions/setup-node@v4
+      - name: install dependencies
+        run: npm install
+      - name: build blog listing
+        run: |
+          ./infra/list-posts.sh
