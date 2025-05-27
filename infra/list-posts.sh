@@ -1,4 +1,5 @@
 cd public/
+location=https://raw.githubusercontent.com/PumpkinBrain/Yukiko-Blogs/refs/heads/main/public/blogs
 destination=data/posts.json
 
 echo "" >$destination
@@ -15,7 +16,7 @@ for file in blogs/*; do
   \"title\": $title,
   \"tag\": $tag,
   \"date\": $date,
-  \"file\": \"/$file\",
+  \"file\": \"$location/$file\",
   \"description\": $description
 }," >>$destination
   ID=$(($ID + 1))
