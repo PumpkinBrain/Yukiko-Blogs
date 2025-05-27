@@ -1,5 +1,5 @@
 cd public/
-location=https://raw.githubusercontent.com/PumpkinBrain/Yukiko-Blogs/refs/heads/main/public/blogs
+location=https://raw.githubusercontent.com/PumpkinBrain/Yukiko-Blogs/refs/heads/main/public
 destination=data/posts.json
 
 echo "" >$destination
