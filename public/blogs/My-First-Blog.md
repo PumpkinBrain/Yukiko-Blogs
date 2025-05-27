@@ -15,10 +15,12 @@ the posts AND the pages so... Win?
 ## "Why not do client-side rendering?"
 
 You may ask. But then I'd fall on the problem that I would **HAVE**
-to store the posts on Neocities because of the **CORS policies**,
+to store the posts on Neocities because of the [**CORS policies**](https://www.geeksforgeeks.org/cross-origin-resource-sharing-cors/),
 which are pretty restrictive on free accounts. So with this approach,
 I can have all of my posts on GitHub and have only the pre-rendered
-pages using my storage.
+pages using my storage. Now all that's missing is doing some better
+automation and organization of the files so that I can smoothly
+publish and edit my blogs.
 
 [metadata.title]:# "Test Post For Storage System"
 [metadata.tag]:# "test"
