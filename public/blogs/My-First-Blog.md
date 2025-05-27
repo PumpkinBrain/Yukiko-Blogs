@@ -1,4 +1,4 @@
-# My First Blog
+# [title]
 
 Hi! This is a blog post that I am storing
 on **GitHub** and using **NextJS**'s static rendering
@@ -22,7 +22,11 @@ pages using my storage. Now all that's missing is doing some better
 automation and organization of the files so that I can smoothly
 publish and edit my blogs.
 
-[metadata.title]:# "My new blog storage system"
+Now I shall disappear for another while as I practice content writing
+and learn about SEO so that my website gains a bit of visibility, [title]
+
+[title]: My post title
+[metadata.title]:# "Blog Posts Storage Using Github"
 [metadata.tag]:# "test"
 [metadata.date]:# "2025-05-25"
 [metadata.description]:# "Testing a great gambiarra to get this working"
