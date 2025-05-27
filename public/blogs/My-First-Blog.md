@@ -25,7 +25,7 @@ publish and edit my blogs.
 Now I shall disappear for another while as I practice content writing
 and learn about SEO so that my website gains a bit of visibility, [title]
 
-[title]: My post title
+[title]: "toootle"
 [metadata.title]:# "Blog Posts Storage Using Github"
 [metadata.tag]:# "test"
 [metadata.date]:# "2025-05-25"
