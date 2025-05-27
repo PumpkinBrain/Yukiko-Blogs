@@ -22,7 +22,7 @@ pages using my storage. Now all that's missing is doing some better
 automation and organization of the files so that I can smoothly
 publish and edit my blogs.
 
-[metadata.title]:# "Test Post For Storage System"
+[metadata.title]:# "My new blog storage system"
 [metadata.tag]:# "test"
 [metadata.date]:# "2025-05-25"
 [metadata.description]:# "Testing a great gambiarra to get this working"
